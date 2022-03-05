@@ -1,0 +1,13 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(àªÅö8­ÅÀÎí/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡½‚Ê8²ÅÀÎí/
+T
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8²ÅÀÎí/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ùœşùüÿÿÿÿ8´ÅÀÎí/
+T
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8µÅÀÎí/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(³†´‚8¶ÅÀÎí/
+T
+java:S1135#"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8·ÅÀÎí/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï¾¹ûûÿÿÿÿ8ÀÅÀÎí/

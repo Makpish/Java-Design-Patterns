@@ -1,0 +1,16 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(àªÅö8øÅÀÎí/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÍÚ¹ùÿÿÿÿ8şÅÀÎí/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“¯¨8ÿÅÀÎí/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(é™È¾8ÆÀÎí/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(şÓÍùÿÿÿÿ8‚ÆÀÎí/
+\
+java:S1610&"?Convert the abstract class "AbstractFactory" into an interface.(ó×“ë8„ÆÀÎí/
+W
+java:S1118B":Add a private constructor to hide the implicit public one.(Ã‰ßÏ8ÆÀÎí/
+i
+java:S1192/"GDefine a constant instead of duplicating this literal "SQUARE" 4 times.(‘èéàøÿÿÿÿ8”ÆÀÎí/
+g
+java:S1192-"JDefine a constant instead of duplicating this literal "RECTANGLE" 4 times.(Û»ü¤8”ÆÀÎí/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“¸¦ıÿÿÿÿ8˜ÆÀÎí/

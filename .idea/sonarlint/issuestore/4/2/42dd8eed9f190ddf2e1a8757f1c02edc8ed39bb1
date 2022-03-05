@@ -1,0 +1,12 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(àªÅö8§¿Îí/
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»µ’…øÿÿÿÿ8§¿Îí/
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßÖ–Ëÿÿÿÿÿ8“§¿Îí/
+£
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óÿÊøÿÿÿÿ8˜§¿Îí/
+£
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßÖ–Ëÿÿÿÿÿ8›§¿Îí/
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢·»^8£§¿Îí/
